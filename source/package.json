@@ -1,0 +1,14 @@
+{
+  "name": "Ooahh",
+  "main": "app://ooahh/player.html",
+  "window": {
+	 "min-height": 60,
+      "height": 60,
+	 "width": 300,
+      "min-width": 300,
+      "toolbar": false,
+      "resizable": false,
+      "frame": false
+  },
+  "version": "1.0"
+}

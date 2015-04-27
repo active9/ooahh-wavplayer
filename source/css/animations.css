@@ -1,0 +1,14 @@
+#ooahhmain:hover {
+    -webkit-animation: rotate 4s forwards;
+    animation: rotate 4s forwards;
+}
+@-webkit-keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+@keyframes rotate {
+    100% {
+        transform: rotate(360deg);
+    }
+}
